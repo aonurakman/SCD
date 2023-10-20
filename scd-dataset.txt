@@ -1,0 +1,100 @@
+lead;she had to lead the team in the right direction;the coach is here to lead the team to the championship;1
+ball;puma designed a new ball for the world cup;she bought a colorful ball for her dog;1
+book;i read the book you recommended last week;he wants to book a table for two;0
+right;she knew she was in the right position;turn right at the next intersection;0
+scale;i need a scale to weigh these vegetables;the company needs to scale up production;0
+bass;the bass player was really good in the concert;he caught a large bass in the lake;0
+mean;what does this word mean in the text;he is very mean when he is annoyed;0
+trunk;she opened the trunk and put her bags inside;elephants have long trunks;0
+yard;they played football in the yard;she bought a yard of fabric;0
+well;she performs well in all her tests;they built a well in the village;0
+plane;he saw a plane fly overhead;he needs to plane the wood before painting it;0
+store;she bought a dress from the store;he had to store the equipment in the basement;0
+suit;he wore a suit to the wedding;a brown suit can be worn in a formal occasion;1
+jam;i like strawberry jam on my toast;we got stuck in a traffic jam;0
+saw;she saw a bird in the garden;he used a saw to cut the wood;0
+light;he turned on the light in the room;i gave her the light bags to carry;0
+crane;a crane was used to lift the heavy object;he saw a crane near the pond;0
+bear;i saw a bear in the forest;i can not bear this pain anymore;0
+rose;he gave her a red rose for her birthday;she quickly rose from her seat;0
+tire;the car has a flat tire;i tire easily in the summer heat;0
+spring;i visit my family every spring;the flowers bloom in spring;1
+bark;the dog started to bark loudly;the tree has a rough bark;0
+train;he takes the train to work every day;she had to train for the marathon;0
+watch;he bought a new watch last week;watch the road while you drive;0
+band;she likes to listen to that band;he used a band to tie his hair back;0
+match;the match starts at three;these colors do not match at all;0
+leaves;he raked the yellow leaves in the yard;she leaves for work at eight in the morning;0
+pound;she used a pound of flour for the cake;the dog bark was loud and pound;0
+can;he opened a can of soda and poured in a glass;can you help me with this task;0
+fan;it is hot in here turn on the fan;i am a big fan of that actor;0
+club;he joined the golf club last year;this restaurant is exclusive for the club members only;1
+race;she will participate in the race;the human race needs to protect the environment;0
+bank;i need to go to the bank today to deposit my savings;the river bank was full of flowers;0
+rock;she picked up a rock from the beach;he likes to listen to loud rock music;0
+leaves;she picked up the leaves in the garden;our yard is full of leaves since october;1
+novel;she wrote a novel about her experiences;it is a novel idea for a business;0
+capital;the capital city is full of tourists;he needs capital to start his new business;0
+pen;i need a pen and paper to write a note;he keeps chickens in a pen;0
+monitor;he bought a new monitor for his computer;the boss will monitor the progress;0
+trunk;the elephant used its trunk to pick up food;this car has a large trunk ideal for families;0
+letter;he wrote a letter for his college friend;my mom received a letter from the bank;1
+wave;he gave her a wave as she drove away;the ocean waves were too high to surf;0
+current;the current in the river is strong;our current situation is difficult;0
+pupil;the teacher praised the pupil for his work;the eye pupil expands in the dark;0
+point;he could not get his point across;what is the point of arguing;1
+table;we need a new table for the kitchen;the thanksgiving table is always full of dishes;1
+draft;he made a draft of the letter;system automatically saved it as a draft;1
+tower;the tower overlooks the entire city;there are many legends about this historical tower;1
+case;the lawyer is working on a difficult case;he bought a green leather case for his guitar;0
+arm;she broke her arm badly playing tennis;the robot has a long arm with six joints;1
+duck;he saw a green duck in the pond;you should duck when the ball comes your way;0
+period;she had a busy period at work;put a period at the end of the sentence;0
+star;he pointed to a bright star in the sky;this actress is a star in the new movie;0
+charge;the coach was in charge entire season;our boss is in charge of the project;1
+tie;he wore a blue tie to the meeting;the world cup game ended in a tie;0
+mail;i will mail the letter to the court tomorrow;the company got a lot of mail from customers;1
+brush;she used a brush to apply the paint;i forgot to brush my teeth this morning;0
+yard;he mowed the grass in the yard this morning;we want to build a pond in our yard;1
+plate;she served dinner on a blue plate;the tectonic plates are shifting in turkey;0
+box;he put his christmas present in a box;he will place the item in a box for shipment;1
+foot;he hurt his foot while playing soccer;the mountain is six thousand feet high;1
+kind;he is always kind to elders;what kind of car do you drive;0
+play;he likes to play video games on his computer;she got a major role in the school play;0
+bark;the dog began to bark at the stranger;the mailman gets scared when the dogs bark;1
+face;she has a pretty oval face;you should apply sunscreen on your face everyday;1
+leaves;he swept the leaves off the sidewalk;the plane leaves at ten in the evening;0
+band;she wore a tight band in her hair;the band played a beautiful slow song;0
+bowl;she poured cereal into a bowl;this bowl is too small for serving salad in it;1
+letter;she received a letter from her old friend;there are seven letters in the mailbox;1
+date;they went on a first date last night;the date on the letter was wrong;0
+watch;he got a new watch for his birthday;watch out for that car behind you;0
+fair;the county fair is next weekend;he will play guitar in town fair;1
+cell;the monk lived in a small cell;the cell phone rang loudly;0
+chest;he has a large tattoo on his chest;the pirate buried his chest of gold;0
+line;he stood in line at the bank for hours;she drew a straight line on the paper;0
+bear;the bear was looking for food;i can not bear to see you sad;0
+left;take the turn on left at the corner;he left his wallet and keys on the table;0
+scale;she used a scale to weigh the fruit;this scale must be broken;1
+crane;the crane lifted the steel beams;he saw a crane at the lake;0
+fan;he turned on the fan because it was hot;i caught a cold from the constantly blowing fan;1
+well;the well provided water for the village;she speaks english very well;0
+fall;he took a fall while climbing;the leaves change color in every fall;0
+plane;he took a plane to new york yesterday;the carpenter used a plane on the wood;0
+spring;the flowers bloom in the spring;this spring is warmer compared to last year;1
+bark;the dog bark always scares me;cats meow but dogs bark;1
+match;the tennis match was intense;those two colors do not match;0
+rock;the rock rolled rapidly down the hill;this beach is full of green rocks;1
+club;he joined the chess club;you can use your club card to enter;1
+ball;he kicked the ball into the net;she wore a gown to the ball;0
+store;she went to the store to buy groceries;he had to store the tools in the garage;0
+bank;he deposited thousand dollars in the bank;i got a call from the bank for not paying my debt;1
+novel;she enjoyed reading the mystery novel;that is a novel approach to the problem;0
+light;she turned on the light in the kitchen;the feather was light as air;0
+tire;he changed the flat tire on his car;this car needs bigger tires for this surface;1
+suit;he wore a blue suit to the interview;that color does not suit her;0
+tie;he wore a red tie to the wedding;tie these ropes tightly together;0
+train;he took the earliest train to work;players train all summer before the season;0
+race;it was a very competitive race;kids race to the front door;1
+yard;they played baseball in the yard;she bought two yards of red fabric;0
+charge;you can charge your phone here;the sellers charge extra for this topping;0
